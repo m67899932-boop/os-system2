@@ -1,1 +1,0 @@
-export default function Home(){return (<div>OS System</div>)}
