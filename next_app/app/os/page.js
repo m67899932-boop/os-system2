@@ -1,0 +1,1 @@
+export default function OS(){ return <h1>OS OK</h1> }

@@ -1,0 +1,1 @@
+export default function Frotas(){ return <h1>Frotas OK</h1> }
